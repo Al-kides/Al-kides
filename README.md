@@ -1,5 +1,5 @@
 <h1 align="center">Well met, people of the world, I am Euclideus</h1>
-<h3 align="center">I am an aspiring software developer from the southern region of Africa seeking to create and sharpen useful skills such that he may create new worlds and bring to reality concepts through software. I like programming</h3>
+<h3 align="center">I am an aspiring self-taught software developer from the southern region of Africa seeking to create and sharpen useful skills such that he may create new worlds and bring to reality concepts through software. I like programming and hope I will be amazing in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euclidae&label=Profile%20views&color=0e75b6&style=flat" alt="euclidae" /> </p>
 
