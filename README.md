@@ -1,16 +1,9 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/ZcD6fJ2hFpEAAAAi/chika-fujiwara-chika-dance.gif" width="50">
+  <img src="https://media1.tenor.com/m/TFZlEitvsmAAAAAd/chika-fujiwara.gif" width="50">
   Kon'nichiwa, I'm Shin Euclidae Alcides
-  <img src="https://media.tenor.com/ZcD6fJ2hFpEAAAAi/chika-fujiwara-chika-dance.gif" width="50">
+  <img src="https://media1.tenor.com/m/TFZlEitvsmAAAAAd/chika-fujiwara.gif" width="50">
 </h1>
 <h3 align="center">❄️ Cold-resistant Systems Developer • 🎮 Game Engine Enthusiast • 🦀 Rustacean</h3>
-
-<p align="center">
-  <div align="center">
-    <img src="https://github.com/Euclidae/Euclidae/assets/74163688/4b1e1a3a-4a55-4b2d-8c8c-1d1d6b3a1f7b" width="400">
-    <p align="center"><b>Pronouns: I'm him</b></p>
-  </div>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Building+high-performance+systems+%F0%9F%9A%80;Game+engine+developer+in+training+%F0%9F%8E%AE;C%2B%2B%2FC%2FRust+specialist+%F0%9F%92%BB;Anime+OST+connoisseur+%F0%9F%8E%B6;Professional+introvert+%F0%9F%AB%A6" alt="Typing SVG" />
@@ -137,4 +130,4 @@ class Euclideus:
 Fate Heavens Feel II</b></p> <a href="https://open.spotify.com/user/31gp3ekfbpke5il7w3co7lczglra" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="200">
   </a>
-  </div><p align="center"> <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-anime.gif" width="300"> </p> ```
+  </div><p align="center"> <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-anime.gif" width="300"> </p> 
