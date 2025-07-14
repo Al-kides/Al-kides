@@ -101,12 +101,17 @@ class Euclideus:
 
 ---
 
-### 🛠️ [Visual Studio Generator](https://github.com/Euclidae/Visual-Studio-Project-Generator)
+### 🛠️ [Orion Search Engine](https://github.com/Euclidae/Orion-Search-Engine)
 
-<p> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/tkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"> <img src="https://img.shields.io/badge/Automation-4ECDC4?style=for-the-badge&logo=automation&logoColor=white" alt="Automation"> </p>
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/Automation-4ECDC4?style=for-the-badge&logo=automation&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+</p>
 
 > ⚙️ **Developer productivity on steroids** 🚀  
-> Intelligent project scaffolding tool with GUI interface. Automates Visual Studio project setup with custom templates, dependency management, and configuration presets.
+> Intelligent project displaying how one may create a custom search engine in Python.
 
 ---
 
